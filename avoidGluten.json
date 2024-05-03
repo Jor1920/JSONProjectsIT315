@@ -4,7 +4,7 @@
       "restName": "Glory days",
       "restLocation": "9526 Old Keene Mill Rd, Burke, VA 22015",
       "restDescription": "This restaurant is known for being an American Grill with a sports theme from football to baseball or hockey! From nice, juicy steaks, to grilled, or fried buffalo wings, This place is great for families and or 	sports enjoyers. This restaurant also provides a very generous gluten-free menu with enough dishes available to satisfy those with gluten allergies or celiac disease. Prices are set.",
-      "restImage": "glory_days.jpeg",
+      "restImage": "https://raw.githubusercontent.com/Jor1920/JSONProjectsIT315/master/glory_days.jpeg",
       "restItemOne": "MACHO NACHOS - Blue corn tortilla chips topped with chili, queso, lettuce, tomatoes, and sour cream. 920 cal. $12",
       "restItemTwo": "ALL AMERICAN CHEESEBURGER - Our delicious award-winning burger grilled and topped with cheddar cheese. 1,120 cal. $14 Add bacon for $.50",
       "restItemThree": "1988 SIRLOIN STEAK USDA - Choice sirloin served with a loaded baked potato and your choice of Caesar or house salad. 790-960 cal. $19.5",
