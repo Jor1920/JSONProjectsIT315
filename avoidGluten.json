@@ -3,7 +3,7 @@
     {
       "restName": "Glory days",
       "restLocation": "9526 Old Keene Mill Rd, Burke, VA 22015",
-      "restDescription": "This restaurant is known for being an American Grill with a sports theme from football to baseball or hockey! From nice, juicy steaks, to grilled, or fried buffalo wings, This place is great for families and or 	sports enjoyers. This restaurant also provides a very generous gluten-free menu with enough dishes available to satisfy those with gluten allergies or celiac disease. Prices are set.",
+      "restDescription": "This restaurant is known for being an American Grill with a sports theme from football to baseball or hockey! From nice, juicy steaks, to grilled, or fried buffalo wings, This place is great for families and or sports enjoyers. This restaurant also provides a very generous gluten-free menu with enough dishes available to satisfy those with gluten allergies or celiac disease. Prices are set.",
       "restImage": "https://raw.githubusercontent.com/Jor1920/JSONProjectsIT315/master/glory_days.jpeg",
       "restItemOne": "MACHO NACHOS - Blue corn tortilla chips topped with chili, queso, lettuce, tomatoes, and sour cream. 920 cal. $12",
       "restItemTwo": "ALL AMERICAN CHEESEBURGER - Our delicious award-winning burger grilled and topped with cheddar cheese. 1,120 cal. $14 Add bacon for $.50",
@@ -14,18 +14,18 @@
     {
       "restName": "Out of the Bubble Bakery",
       "restLocation": "6230-A Rolling Rd, Springfield, VA 22152",
-      "restDescription": "This local bakery is good in that it provides a variety of sweets at affordable prices. They sell cupcakes, cakes from carrot cakes to red velvet cakes, to macaroons and more! The best part is this place 	provides all of these products with a gluten-free version. Prices vary by size.",
+      "restDescription": "This local bakery is good in that it provides a variety of sweets at affordable prices. They sell cupcakes, cakes from carrot cakes to red velvet cakes, to macaroons and more! The best part is this place provides all of these products with a gluten-free version. Prices vary by size.",
       "restImage": "https://raw.githubusercontent.com/Jor1920/JSONProjectsIT315/master/sweets.jpg",
       "restItemOne": "Lemon Crème — Lemon Cake, Vanilla bean creme filling, with Vanilla Frosting",
       "restItemTwo": "Double Chocolate – Chocolate Cake filled with Chocolate Frosting",
       "restItemThree": "Vanilla Cake - with Confetti Sprinkles mixed-in, with Chocolate or Vanilla Frosting",
       "restMenuSite": "https://obubblebakery.com/cakes/",
-      "restRevSite": "https://www.google.com/search?q=out+of+the+bubble+bakery+review&client=firefox-b-1-d&sca_esv=fdae4f9b2d9875c9&ei=FrwDZpLDE4vn5NoP-ZWmyAw&ved=0ahUKEwiSpu7l55OFAxWLM1kFHfmKCckQ4dUDCBA&uact=5	&oq=out+of+the+bubble+bakery+review&gs_lp=Egxnd3Mtd2l6LXNlcnAiH291dCBvZiB0aGUgYnViYmxlIGJha2VyeSByZXZpZXcyBRAAGIAEMgIQJjILEAAYgAQYigUYhgMyCxAAGIAEGIoFGIYDMgsQABiABBiKBRiGAzILEAAYgAQYigUYhgNIzwlQ7AFYhQhwAXgBkAEAmAE9oAHtAqoBATe4AQ	PIAQD4AQGYAgigAoADwgIKEAAYRxjWBBiwA8ICDRAAGIAEGIoFGEMYsAPCAhwQLhiABBiKBRhDGMcBGK8BGMgDGLADGI4F2AEBwgIZEC4YgAQYigUYQxjHARjRAxjIAxiwA9gBAcICExAuGIAEGIoFGEMYxwEYrwEYjgWYAwCIBgGQBg26BgQIARgIkgcBOKAH6Bw&sclient=gws-wiz-serp#lrd=	0x89b652ff79642bd1:0xb0a8a8475ac957f9,1,,,,"
+      "restRevSite": "https://www.google.com/search?q=out+of+the+bubble+bakery+review&client=firefox-b-1-d&sca_esv=fdae4f9b2d9875c9&ei=FrwDZpLDE4vn5NoP-ZWmyAw&ved=0ahUKEwiSpu7l55OFAxWLM1kFHfmKCckQ4dUDCBA&uact=5\t&oq=out+of+the+bubble+bakery+review&gs_lp=Egxnd3Mtd2l6LXNlcnAiH291dCBvZiB0aGUgYnViYmxlIGJha2VyeSByZXZpZXcyBRAAGIAEMgIQJjILEAAYgAQYigUYhgMyCxAAGIAEGIoFGIYDMgsQABiABBiKBRiGAzILEAAYgAQYigUYhgNIzwlQ7AFYhQhwAXgBkAEAmAE9oAHtAqoBATe4AQ\tPIAQD4AQGYAgigAoADwgIKEAAYRxjWBBiwA8ICDRAAGIAEGIoFGEMYsAPCAhwQLhiABBiKBRhDGMcBGK8BGMgDGLADGI4F2AEBwgIZEC4YgAQYigUYQxjHARjRAxjIAxiwA9gBAcICExAuGIAEGIoFGEMYxwEYrwEYjgWYAwCIBgGQBg26BgQIARgIkgcBOKAH6Bw&sclient=gws-wiz-serp#lrd=\t0x89b652ff79642bd1:0xb0a8a8475ac957f9,1,,,,"
     },
     {
       "restName": "Mike's American Grill",
       "restLocation": "6210 Backlick Rd, Springfield, VA 22150",
-      "restDescription": "This restaurant is another steakhouse that serves prime cut filet mignon and ribeye. They also have lots of other options such as chicken, pasta, and salad. This restaurant is trained to handle gluten allergies 	and sensitivity so you can dine with little concern here.",
+      "restDescription": "This restaurant is another steakhouse that serves prime cut filet mignon and ribeye. They also have lots of other options such as chicken, pasta, and salad. This restaurant is trained to handle gluten allergies and sensitivity so you can dine with little concern here.",
       "restImage": "https://raw.githubusercontent.com/Jor1920/JSONProjectsIT315/master/steaksGrill.jpeg",
       "restItemOne": "Filet Mignon - on mashed potatoes with roasted cremini mushrooms....8 oz...$48, 6 oz...$41",
       "restItemTwo": "Jambalaya Pasta - with shrimp, chicken & andouille sausage in spicy Creole sauce on gluten free penne pasta...$26",
@@ -36,7 +36,7 @@
     {
       "restName": "Hemrock's Restaurant",
       "restLocation": "3950 Chain Bridge Rd, Fairfax, VA 22030",
-      "restDescription": "This restaurant is a local neighborhood restaurant down in Fairfax that has many delicious meals ready for you to try! They have a variety of salads to prime grilled steak and fish such as North Atlantic 	salmon! They're a bit pricier compared to Chipotle but people seem to think it's worth going!",
+      "restDescription": "This restaurant is a local neighborhood restaurant down in Fairfax that has many delicious meals ready for you to try! They have a variety of salads to prime grilled steak and fish such as North Atlantic salmon! They're a bit pricier compared to Chipotle but people seem to think it's worth going!",
       "restItemOne": "PARMESAN PANKO CRUSTED CHICKEN - Sautéed chicken breast with a Sundried Tomato Cream Sauce, Grilled Asparagus, Angel Hair Pasta $20",
       "restItemTwo": "NORTH ATLANTIC GRILLED SALMON - GF Salmon filet drizzled with pomegranate molasses and basil cream served with confetti basmati rice $26",
       "restItemThree": "CAPRESE SALAD - GF Fresh mozzarella cheese with red and yellow tomatoes, basil cream, and balsamic glaze $9",
@@ -44,11 +44,10 @@
       "restMenuSite": "https://hamrocksrestaurant.com/wp-content/uploads/2023/04/Lunch-and-Dinner-May-2023.pdf",
       "restRevSite": "https://www.google.com/search?q=hemlock+restaurant+reviews+fairfax&client=firefox-b-1-d&sca_esv=fdae4f9b2d9875c9&ei=ybkDZvTDNL3R5NoPsNSmmAM&ved=0ahUKEwi0zKHN5ZOFAxW9KFkFHTCqCTMQ4dUDCBA&uact=5&oq=hemlock+restaurant+reviews+fairfax&gs_lp=Egxnd3Mtd2l6LXNlcnAiImhlbWxvY2sgcmVzdGF1cmFudCByZXZpZXdzIGZhaXJmYXgyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRifBUjuEFCnBFiJEHACeACQAQCYAVWgAZoFqgECMTG4AQPIAQD4AQGYAg2gArgFwgIFEAAYgATCAgsQABiABBiKBRiGA8ICBBAhGBXCAgcQIRgKGKABmAMA4gMFEgExIECSBwIxM6AHwVQ&sclient=gws-wiz-serp#ip=1&lrd=0x89b64e930c750cb7:0xb829989f2e28281e,1,,,,"
     },
-
     {
       "restName": "Tony's NY Pizza",
       "restLocation": "13087 Fair Lakes Shopping Center, Fairfax, VA 22033",
-      "restDescription": "A family-run pizza place that specializes in New York-style pizza. This place is popular with the locals in Fairfax as they hand-make the pizza from scratch and cook it in a stone oven. Even though it is a 	pizza place, they offer gluten-free menus for those with gluten issues and have a large option of pizza pies you can choose from!",
+      "restDescription": "A family-run pizza place that specializes in New York-style pizza. This place is popular with the locals in Fairfax as they hand-make the pizza from scratch and cook it in a stone oven. Even though it is a pizza place, they offer gluten-free menus for those with gluten issues and have a large option of pizza pies you can choose from!",
       "restItemOne": "GF Veggie - Green peppers, red onions, tomatoes, black olives & garlic $22",
       "restItemTwo": "GF Tony's Special - Pepperoni, sausage, mushrooms, green peppers & onions $22",
       "restItemThree": "GF Margherita - Fresh tomato sauce, fresh mozzarella, olive oil & basil $22",
@@ -56,11 +55,10 @@
       "restMenuSite": "https://order.toasttab.com/online/tonysnypizza-fairlakes",
       "restRevSite": "https://www.yelp.com/biz/tonys-ny-pizza-fairfax#reviews"
     },
-
     {
       "restName": "True Food Kitchen",
       "restLocation": "Mosaic District, 2910 District Ave Suite 170, Fairfax, VA 22031",
-      "restDescription": "This is an American restaurant that specializes in providing vegetarian and gluten-free entrees at their restaurant. They provide a variety of dishes from steak to poke to grilled fish such as rainbow trout. 	They also have a wide assortment of beverages available from kale blend drinks to coffee to spritzers. Prices vary per location.",
+      "restDescription": "This is an American restaurant that specializes in providing vegetarian and gluten-free entrees at their restaurant. They provide a variety of dishes from steak to poke to grilled fish such as rainbow trout.They also have a wide assortment of beverages available from kale blend drinks to coffee to spritzers. Prices vary per location.",
       "restItemOne": "Idaho Rainbow Trout - quinoa, artichoke, roasted red pepper, lemon oregano vinaigrette GF",
       "restItemTwo": "Burrito Bowl - anasazi bean, brown rice, quinoa, cotija, avocado, peruvian pepper sauce, charred scallion salsa verde GF",
       "restItemThree": "Grilled Grassfed Steak - roasted brussels sprout, charred onion, sweety drop pepper, black rice, peruvian pepper sauce GF",
@@ -68,11 +66,10 @@
       "restMenuSite": "https://www.truefoodkitchen.com/locations/fairfax/",
       "restRevSite": "https://www.tripadvisor.com/Restaurant_Review-g57718-d7253564-Reviews-True_Food_Kitchen-Fairfax_Virginia.html#REVIEWS"
     },
-
     {
       "restName": "Busboys and Poets",
       "restLocation": "4251 Campbell Ave, Arlington, VA 22206",
-      "restDescription": "This restaurant is dedicated to bringing people in from different cultures and backgrounds. They are an American-themed restaurant that serves a variety of dishes and contain their gluten-free menu. People like 	this place as it serves as not only a restaurant but as a bookstore and coffee shop as well!",
+      "restDescription": "This restaurant is dedicated to bringing people in from different cultures and backgrounds. They are an American-themed restaurant that serves a variety of dishes and contain their gluten-free menu. People like this place as it serves as not only a restaurant but as a bookstore and coffee shop as well!",
       "restItemOne": "Crispy Cauliflower Bites - cauliflower, garlic harissa, cilantro-lemon aioli $22 GF",
       "restItemTwo": "Fried Catfish - collard greens, herb grits, capers, and tomato couli sauce $23 GF",
       "restItemThree": "Fried Chicken - 1 piece of cage-free and halal chicken breast, buttermilk, herb mushroom cream sauce, mashed potatoes, collard greens $16 GF",
@@ -80,19 +77,17 @@
       "restMenuSite": "https://www.busboysandpoets.com/menu/lunch-dinner-menu/",
       "restRevSite": "https://www.tripadvisor.com/Restaurant_Review-g30242-d929488-Reviews-Busboys_and_Poets-Arlington_Virginia.html#REVIEWS"
     },
-
-   {
-  "restName": "Green Pig Bistro",
-  "restLocation": "1025 N Fillmore St STE D, Arlington, VA 22201",
-  "restDescription": "This bistro serves American-French dishes that specialize in pork but also have dishes that range from salads to fish to steak and soup such as their French Onion Soup! They do not have a gluten-free menu but they 	 do list what meals are gluten-free and what meals are gluten-sensitive. Prices are around the mid-20s to upper 30s.",
-  "restItemOne": "Green Pig French Onion Soup - with Parmesan Croutons, Creamy Gruyere Cheese & Ham $12",
-  "restItemTwo": "Pork Cassoulet - crispy pork belly, smoked pork shoulder, duck sausage, sweet garlic, gigante beans, pearl onions, herb grain crumble, served with toasted garlic bread $32.5",
-  "restItemThree": "Short Rib Risotto - caramelized onions, demi-glace $26.5",
-  "restImage": "https://raw.githubusercontent.com/Jor1920/JSONProjectsIT315/master/greenPig.jpeg",
-  "restMenuSite": "http://greenpigbistro.com/menu",
-  "restRevSite": "https://www.yelp.com/biz/green-pig-bistro-arlington#reviews"
-	}
-
+    {
+      "restName": "Green Pig Bistro",
+      "restLocation": "1025 N Fillmore St STE D, Arlington, VA 22201",
+      "restDescription": "This bistro serves American-French dishes that specialize in pork but also have dishes that range from salads to fish to steak and soup such as their French Onion Soup! They do not have a gluten-free menu but they  do list what meals are gluten-free and what meals are gluten-sensitive. Prices are around the mid-20s to upper 30s.",
+      "restItemOne": "Green Pig French Onion Soup - with Parmesan Croutons, Creamy Gruyere Cheese & Ham $12",
+      "restItemTwo": "Pork Cassoulet - crispy pork belly, smoked pork shoulder, duck sausage, sweet garlic, gigante beans, pearl onions, herb grain crumble, served with toasted garlic bread $32.5",
+      "restItemThree": "Short Rib Risotto - caramelized onions, demi-glace $26.5",
+      "restImage": "https://raw.githubusercontent.com/Jor1920/JSONProjectsIT315/master/greenPig.jpeg",
+      "restMenuSite": "http://greenpigbistro.com/menu",
+      "restRevSite": "https://www.yelp.com/biz/green-pig-bistro-arlington#reviews"
+    }
   ],
-  "Status":"OK"
+  "Status": "OK"
 }
